@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void zeroBTN(View view){
         updateText("0");
+        System.out.println("check");
 
     }
 
